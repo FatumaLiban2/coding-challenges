@@ -1,5 +1,6 @@
 
 //puts the message on the screen
+//call a function
 public class output{
     void greetUser(){
         System.out.println("Welcome Fatuma");
