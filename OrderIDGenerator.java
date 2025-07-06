@@ -2,7 +2,7 @@
   The following code creates 10 random OrderIDs to test the fraud detection process.OrderIDs 
   consist of a letter from A to E, and a three digit number. Ex. A123.
 */
-import java.util.Random;
+import java.util.Random ;
 public class OrderIDGenerator {
     public static void main(String[] args){
         Random random = new Random();
