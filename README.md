@@ -1,8 +1,8 @@
-# Coding-Challenges-OOP-II
+# Coding-Challenges #
 
 # Student Info
-**Name:** Maina Tiffany Wanjiru  
-**Student No:** 189592
+**Name:** Fatuma Liban  
+**Student No:** 192641
 
 # Description
 This repository contains solutions to various coding challenges, organized by folder. 
